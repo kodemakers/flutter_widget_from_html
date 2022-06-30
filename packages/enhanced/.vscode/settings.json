@@ -1,0 +1,13 @@
+{
+    "search.exclude": {
+        "/.fvm": true
+    },
+    "files.watcherExclude": {
+        "/.fvm": true
+    },
+    "dart.flutterSdkPaths": [
+        "/home/kode/fvm/versions",
+        "/home/kode/flutter"
+    ],
+    "dart.flutterSdkPath": "/home/kode/fvm/versions/3.0.0"
+}
